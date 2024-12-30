@@ -1,6 +1,6 @@
 ## Swiss Federal Audit Office (SFAO) - Januar Schulung 2025
 
-Das **Artificial Intelligence** Repository umfasst eine Reihe von Jupyter Notebooks, die wir für die **Januar Schulung 2025** der [Eidgenössischen Finanzkontrolle (EFK)](hhttps://www.efk.admin.ch/en/) erstellt haben.
+Das **Artificial Intelligence** Repository umfasst eine Reihe von Jupyter Notebooks, die wir für die **Januar Schulung 2025** der [Eidgenössischen Finanzkontrolle (EFK)](https://www.efk.admin.ch/en/) erstellt haben.
 
 Die Inhalte der Notebooks basieren auf der Programmiersprache **Python** und verwenden diverse zusätzliche Python-Bibliotheken, wie beispielsweise die **NumPy**, **Pandas**, **Matplotlib**, **Seaborn** oder **PyTorch** Bibliothek. 
 
