@@ -13,3 +13,10 @@ torchvision>=0.7.0
 pillow>=6.2.2
 wget>=3.2
 openpyxl>=3.0.6
+crewai==0.36.1
+crewai-tools==0.13.2
+tabulate==0.9.0
+SQLAlchemy==2.0.36
+langchain==0.2.16
+langchain-core==0.2.41
+langchain-openai==0.1.25
