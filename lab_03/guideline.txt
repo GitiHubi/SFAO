@@ -1,0 +1,45 @@
+Introduction
+
+The purpose of this guideline is to establish clear and effective controls over financial transactions within our organization. By prohibiting payments that exceed 1000 USD, we aim to enhance our financial oversight, mitigate risks, and ensure compliance with our internal policies and external regulatory requirements.
+
+Scope
+
+This guideline applies to all departments, units, and employees of the organization involved in the processing, approval, and execution of financial transactions. It encompasses all payment methods, including but not limited to cash, checks, electronic transfers, and credit card payments.
+
+Policy Statement
+
+No payment exceeding 1000 USD shall be processed or approved within the organization. This policy is non-negotiable and applies to all types of transactions, including but not limited to vendor payments, employee reimbursements, and operational expenses.
+
+Exceptions
+
+Exceptions to this policy may be granted under specific circumstances, subject to stringent review and approval processes. Exceptions may include, but are not limited to:
+
+	1.	Emergency Expenditures: Payments necessary to address unforeseen and urgent needs critical to the organization’s operations.
+	2.	Contractual Obligations: Payments required under pre-existing contracts that have been reviewed and approved by senior management.
+	3.	Regulatory Requirements: Payments mandated by law or regulatory authorities.
+
+All exceptions must be documented, justified in writing, and approved by the Chief Financial Officer (CFO) or an authorized delegate.
+
+Procedure
+
+	1.	Payment Initiation: All payment requests must be submitted through the designated financial management system. The requestor must provide all necessary documentation and justification for the payment.
+	2.	Review and Approval: Payment requests will be reviewed by the finance team to ensure compliance with this guideline. Any payment request exceeding 1000 USD will be flagged and returned to the requestor for further action.
+	3.	Exception Handling: For payments exceeding 1000 USD that qualify for an exception, the requestor must submit an exception request form along with the payment request. The form must detail the reason for the exception and include all supporting documentation.
+	4.	Approval: The CFO or an authorized delegate will review the exception request. If approved, the payment will be processed. If denied, the requestor will be notified, and alternative arrangements must be made.
+	5.	Documentation and Reporting: All approved exceptions must be logged in the financial management system, with detailed records maintained for audit purposes. A quarterly report of all exceptions will be presented to the senior management team for review.
+
+Enforcement
+
+Violations of this guideline will result in disciplinary action, up to and including termination of employment. Employees are encouraged to report any suspected violations to their supervisor or the compliance office.
+
+Review and Update
+
+This guideline will be reviewed annually by the finance department to ensure its continued effectiveness and relevance. Any necessary updates will be made and communicated to all employees.
+
+Contact Information
+
+For questions or further clarification regarding this guideline, please contact the finance department at finance@organization.com or call (123) 456-7890.
+
+Effective Date
+
+This guideline is effective as of 01/01/1990.
